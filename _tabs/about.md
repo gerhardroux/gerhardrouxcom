@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I'm a recording technician from Stellenbosch, South Africa. I study complex adaptive systems involved in audio production, focusing on the intersection of socio-technical elements in creative environments.
