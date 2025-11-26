@@ -1,12 +1,12 @@
 ---
-title: Hello World 👋
+title: Opskrif 👋
 slug: hello-world
-publishDate: 30 Nov 2021
-description: Every blog starts with a single post. This is yours. Make it great.
+publishDate: 30 Nov 2025
+description: Kom ons toets die storie
 ---
 
 ![Illustration of woman using a meditation app](/assets/blog/casual-life-3d-meditation-crystal.webp)
 
-This post intentionally left blank.
+I'm going to write things here.
+Mostly about unimportant stuff.
 
-Write what you want.
